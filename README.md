@@ -215,7 +215,7 @@ Predicted House Price:
 
 ## 👨‍💻 Author
 
-**Nikhil Bhardwaj**
+**Nikhil**
 
 Final Year Computer Science Engineering Student
 
